@@ -1,0 +1,10 @@
+KNN Model Hyperparameter Settings
+n_neighbors=17
+leaf_size=1
+p=1
+
+Performance Metrics
+Accuracy: 0.9021739130434783
+Balanced accuracy: 0.9005681818181819
+Precision score: 0.8823529411764706
+Recall score: 0.9375
